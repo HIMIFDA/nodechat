@@ -10,4 +10,5 @@ npm install
 
 ## License
 
-Nodechat is open-sourced software licensed under [MIT license](http://opensource.org/licenses/MIT)
+Nodechat is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
